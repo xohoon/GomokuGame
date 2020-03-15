@@ -10,4 +10,8 @@ c#, c++을 활용해 오목게임(싱글, 멀티 플레이)을 구현
 
 ![se12](https://user-images.githubusercontent.com/48978983/76702734-94fcfe80-670f-11ea-934b-b9b72e5c3c23.png)
 
-- 서버 구동 및 접속현황
+//서버 구동 및 접속현황
+
+![s1](https://user-images.githubusercontent.com/48978983/76702776-de4d4e00-670f-11ea-9794-b2e8d0544b07.png)
+
+// 싱글게임 플레이
