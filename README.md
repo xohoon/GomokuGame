@@ -19,3 +19,7 @@ c#, c++을 활용해 오목게임(싱글, 멀티 플레이)을 구현
 ![s02](https://user-images.githubusercontent.com/48978983/76702841-79debe80-6710-11ea-9a2b-b2eee5ac470a.png)
 
 // 멀티 플레이 접속
+
+![s03](https://user-images.githubusercontent.com/48978983/76702887-c32f0e00-6710-11ea-90e2-df2ed8dd26f1.png)
+
+// 멀티게임 플레이
