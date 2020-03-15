@@ -17,7 +17,7 @@ namespace Client
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void singlePlayButton_Click(object sender, EventArgs e)
         {
             Hide();
             SinglePlayForm singlePlayForm = new SinglePlayForm();
@@ -33,6 +33,14 @@ namespace Client
         void childForm_Closed(object sender, FormClosedEventArgs e)
         {
             Show();
+        }
+
+        private void multiPlayButton_Click(object sender, EventArgs e)
+        {
+            Hide();
+            multiPlayForm multiPlayForm = new multiPlayForm();
+            multiPlayForm.FormClosed += new FormClosedEventHandler(childForm_Closed);
+            multiPlayForm.Show();
         }
     }
 }
