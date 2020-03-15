@@ -8,18 +8,14 @@ c#(client), c++(server)을 활용해 오목게임(싱글, 멀티 플레이)을 �
 * 한 서버는 2명이 정원이고 더이상 입장 불가능하다
 * 게임이 끝나면 승패가 가려지고 재시작을 눌려 게임을 다시 시작한다
 
+//서버 구동 및 접속현황
 ![se12](https://user-images.githubusercontent.com/48978983/76702734-94fcfe80-670f-11ea-934b-b9b72e5c3c23.png)
 
-//서버 구동 및 접속현황
-
+// 싱글게임 플레이
 ![s01](https://user-images.githubusercontent.com/48978983/76702824-587dd280-6710-11ea-81a2-35d3de7631d6.png)
 
-// 싱글게임 플레이
-
+// 멀티 플레이 접속
 ![s02](https://user-images.githubusercontent.com/48978983/76702841-79debe80-6710-11ea-9a2b-b2eee5ac470a.png)
 
-// 멀티 플레이 접속
-
-![s03](https://user-images.githubusercontent.com/48978983/76702887-c32f0e00-6710-11ea-90e2-df2ed8dd26f1.png)
-
 // 멀티게임 플레이
+![s03](https://user-images.githubusercontent.com/48978983/76702887-c32f0e00-6710-11ea-90e2-df2ed8dd26f1.png)
