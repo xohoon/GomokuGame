@@ -1,6 +1,6 @@
 ﻿namespace Client
 {
-    partial class multiPlayForm
+    partial class MultiPlayForm
     {
         /// <summary>
         /// Required designer variable.

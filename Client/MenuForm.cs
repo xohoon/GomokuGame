@@ -38,7 +38,7 @@ namespace Client
         private void multiPlayButton_Click(object sender, EventArgs e)
         {
             Hide();
-            multiPlayForm multiPlayForm = new multiPlayForm();
+            MultiPlayForm multiPlayForm = new MultiPlayForm();
             multiPlayForm.FormClosed += new FormClosedEventHandler(childForm_Closed);
             multiPlayForm.Show();
         }
